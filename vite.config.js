@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/family-tree-app/', // Replace with your repo name
+  base: '/FamilyTree-Creator/', // Replace with your repo name
 })
